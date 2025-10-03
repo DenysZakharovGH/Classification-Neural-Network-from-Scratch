@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification – Neural Network from Scratch
+# 🌸 Neural Network from Scratch
 
 This project implements a **fully-connected feedforward neural network** in pure **NumPy** to classify the famous [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris).  
 No machine learning libraries (TensorFlow, PyTorch, Scikit-Learn) are used – only **NumPy** and **matplotlib**.
