@@ -33,6 +33,7 @@ Each sample belongs to one of three species:
 - *Iris Versicolor* 🌿  
 - *Iris Virginica* 🌸  
 
+![Loss Curve](docs/data_plot.png)
 ---
 
 ## 🧠 Neural Network Architecture
