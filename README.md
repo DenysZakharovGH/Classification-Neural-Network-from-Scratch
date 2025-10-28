@@ -49,7 +49,7 @@ The network is trained with **gradient descent**:
 
 - Loss function: Mean Squared Error (MSE)  
 - Learning rate: configurable (default `0.05`)  
-- Epochs: up to `100000` (stops early if error < `0.001`)  
+- Epochs: up to `1000` (stops early if error < `0.001`)  
 
 ### Example: Loss Curve
 ![Loss Curve](docs/loss_curve.png)
